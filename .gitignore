@@ -1,0 +1,11 @@
+# Lumenity 5 specific
+vendor
+.idea
+.vscode
+.phpunit.result.cache
+
+.env
+node_modules
+
+composer.lock
+package-lock.json
